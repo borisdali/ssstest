@@ -29,8 +29,8 @@ You are asked whether your system can handle the load. How do you go about answe
 	
 <p>If the questions I asked above don't sound unusual to you in your line of work, then I hope you may find the SSS-test presented here of some value:</p>
 <p>
-<br>1/ "SQL Testing through Scalability with Respect to Concurrent User Count: A Simulation Recipe" <a href="SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>paper (PDF)</b></font></a> 
-<br>2/ <a href="sss_test.tar.gz"><font face="geneva, arial, sans-serif" size="2"><b>SSS-Test</b></font></a>
+<br>1/ "SQL Testing through Scalability with Respect to Concurrent User Count: A Simulation Recipe" <a href="http://ssstest.sourceforge.net/SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>paper (PDF)</b></font></a> 
+<br>2/ <a href="http://ssstest.sourceforge.net/sss_test.tar.gz"><font face="geneva, arial, sans-serif" size="2"><b>SSS-Test</b></font></a>
 <br>3/ <a href="http://www.tns-0.com"><font face="geneva, arial, sans-serif" size="2"><b>Additional resources</b></font></a>, including hiperlinked html-based documentation, test results and appendixes mentioned in the documentation (after being redirected to the www.tns-0.com web site, follow the SSS-Test link)
 </p>
 
