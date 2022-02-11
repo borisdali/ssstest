@@ -8,20 +8,19 @@ Load testing on a shoestring
 
 
 <br> 
-Have you ever pondered about the situations described below?
+Have you ever pondered about any of the situations described below?
 
-<p><IMG border=0 src=images/bullet.gif width=10 height=10>
-
-Developers are given an assignment to quickly put together a new report to be run by 30 concurrent users. In unit testing, response time for a single user running this report is acceptable. 
+* Developers are given an assignment to quickly put together a new report to be run by 30 concurrent users. In unit testing, response time for a single user running this report is acceptable. 
 The question is, of course, if that will still hold true if the other 29 users jump in.
 Any way to give a substantiated answer without actually asking 30 end-users to run this new report?
+
 <br>Perhaps an even more important question is whether slamming this new report on an already busy system might have any adverse affect of degrading system performance? 
 
-<p><IMG border=0 src=images/bullet.gif width=10 height=10>
-The new module is going through a unit testing, and you, as a DBA, are asked to evaluate any (hopefully none) potential adverse effects on the already existing and carefully tuned modules. What course of action would you suggest?
+<p>
+* The new module is going through a unit testing, and you, as a DBA, are asked to evaluate any (hopefully none) potential adverse effects on the already existing and carefully tuned modules. What course of action would you suggest?
 
-<p><IMG border=0 src=images/bullet.gif width=10 height=10>
-No new code path, same old well-known system, but now due to a recent merger there are expected to be at least 20% inrease in the number of concurrent users. 
+<p>
+* No new code path, same old well-known system, but now due to a recent merger there are expected to be at least 20% inrease in the number of concurrent users. 
 You are asked whether your system can handle the load. How do you go about answering this question?
 	
 <p>
