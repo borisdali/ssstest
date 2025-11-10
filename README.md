@@ -7,7 +7,7 @@
 (The SSS Test was originally published on SourceForge in 2006 and is still visible at http://ssstest.sourceforge.net/)
 
 
-<br>Have you ever pondered about any of the situations described below?</br>
+<br>Have you ever encountered any of the use-cases described below?</br>
 
 <ul dir="auto">
 <li><p dir="auto">
