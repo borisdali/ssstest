@@ -30,7 +30,6 @@ You are asked whether your system can handle the load. How do you go about answe
 <p>If the questions I asked above don't sound unusual to you in your line of work, then I hope you may find the SSS-test presented here of some value:</p>
 <p>
 <br>1/ "SQL Testing through Scalability with Respect to Concurrent User Count: A Simulation Recipe" 
-<p>
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
 <img border="0" src="/dali_root/images/bullet.gif" width="10" height="10">
 <br><a href="http://ssstest.sourceforge.net/SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>Original paper on Source Forge</b></font></a> 
