@@ -31,9 +31,9 @@ You are asked whether your system can still handle the increased projected load.
 <p>
 <br>1/ "SQL Testing through Scalability with Respect to Concurrent User Count: A Simulation Recipe" 
 <br> &nbsp;&nbsp;&nbsp;&nbsp;
-<img border="0" src="/dali_root/images/bullet.gif" width="10" height="10">
+<img border="0" src="bullet.gif" width="10" height="10">
 <br><a href="http://ssstest.sourceforge.net/SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>Original paper on Source Forge</b></font></a> 
-<br><a href="SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>Local copy</b></font></a> 
+<br><a href="SSStest_Dali_ScalabilityTesting.pdf"><font face="geneva, arial, sans-serif" size="2"><b>Local/GitHub copy</b></font></a> 
 
 <br>2/ <a href="http://ssstest.sourceforge.net/sss_test.tar.gz"><font face="geneva, arial, sans-serif" size="2"><b>SSS-Test</b></font></a>
 
